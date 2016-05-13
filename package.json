@@ -1,9 +1,14 @@
 {
-  "private": true,
+  "name": "webdev-tasks-2",
+  "version": "1.0.0",
+  "description": "multivarkajs",
   "dependencies": {
-    "jscs": "2.2.1"
+    "mongodb": "2.1.11"
   },
-  "scripts": {
-    "lint": "jscs ."
-  }
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "2.4.5"
+  },
+  "author": "Mokoshka",
+  "license": "ISC"
 }
